@@ -26,15 +26,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
-      <Modified>2012-06-16T13:51:03.383</Modified>
+      <Modified>2012-06-16T14:52:38.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2012-06-16T13:51:03.477</Modified>
+      <Modified>2012-06-16T14:41:53.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2012-06-16T13:51:03.471</Modified>
+      <Modified>2012-06-16T15:07:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -78,7 +78,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
-      <Modified>2012-06-16T13:51:03.723</Modified>
+      <Modified>2012-06-16T14:59:24.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\default.html">
       <PackagePath>default.html</PackagePath>
@@ -86,15 +86,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
-      <Modified>2012-06-16T13:51:03.483</Modified>
+      <Modified>2012-06-16T14:51:50.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2012-06-16T13:51:56.030</Modified>
+      <Modified>2012-06-16T14:39:36.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
-      <Modified>2012-06-16T13:51:03.487</Modified>
+      <Modified>2012-06-16T15:08:20.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

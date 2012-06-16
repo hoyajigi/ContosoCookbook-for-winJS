@@ -8,38 +8,64 @@
     z-index: 0;
 }
 
-    .itemdetailpage .content article {
-        /* Define a multi-column, horizontally scrolling article by default. */
-        column-fill: auto;
-        column-gap: 80px;
-        column-width: 480px;
-        height: calc(100% - 50px);
-        margin-left: 120px;
-        margin-top: 5px;
-        width: 480px;
+.itemdetailpage section[role=main] article .ingredients {
+    -ms-grid-column: 2;
+    margin-left: 40px;
+    width: 360px;
+}
+
+    .itemdetailpage section[role=main] article .ingredients .item-ingredients {
+        margin-top: 20px;
     }
 
-        .itemdetailpage .content article header .item-title {
-            margin-bottom: 20px;
-            margin-top: 0;
+        .itemdetailpage section[role=main] article .ingredients .item-ingredients .ingredient {
+            padding-bottom: 12px;
+            font-size: 20px;
         }
 
-        .itemdetailpage .content article header .item-subtitle {
-            margin-bottom: 20px;
-            margin-top: 0;
-        }
+.itemdetailpage section[role=main] article .directions {
+    -ms-grid-column: 3;
+    margin-left: 40px;
+    width: 380px;
+}
 
-        .itemdetailpage .content article .item-image {
-            height: 240px;
-            margin-bottom: 3px;
-            width: 460px;
-        }
+    .itemdetailpage section[role=main] article .directions .item-directions {
+        margin-top: 20px;
+        font-size: 20px;
+    }
 
-        .itemdetailpage .content article .item-content p {
-            margin-bottom: 20px;
-            margin-right: 20px;
-            vertical-align: baseline;
-        }
+.itemdetailpage .content article {
+    /* Define a multi-column, horizontally scrolling article by default. */
+    column-fill: auto;
+    column-gap: 80px;
+    column-width: 480px;
+    height: calc(100% - 50px);
+    margin-left: 120px;
+    margin-top: 5px;
+    width: 480px;
+    display: -ms-grid;
+}
+
+    .itemdetailpage .content article header .item-title {
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+
+    .itemdetailpage .content article header .item-subtitle {
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+
+    .itemdetailpage .content article .item-image {
+        margin-bottom: 3px;
+        width: 400px;
+    }
+
+    .itemdetailpage .content article .item-content p {
+        margin-bottom: 20px;
+        margin-right: 20px;
+        vertical-align: baseline;
+    }
 
 @media screen and (-ms-view-state: snapped) {
     .itemdetailpage .content {
@@ -51,7 +77,7 @@
             /* Define a single column, vertically scrolling article in snapped mode. */
             -ms-grid-columns: 300px 1fr;
             -ms-grid-row: 2;
-            -ms-grid-rows: auto 60px;
+            -ms-grid-rows: 300px auto;
             display: -ms-grid;
             height: 100%;
             margin-left: 20px;
@@ -59,17 +85,47 @@
         }
 
             .itemdetailpage .content article .item-image {
-                height: 140px;
+                /*height: 140px;*/
                 width: 280px;
             }
 
             .itemdetailpage .content article .item-content {
                 padding-bottom: 60px;
             }
+
+    .itemdetailpage section[role=main] article .ingredients {
+        -ms-grid-row: 2;
+        -ms-grid-column: 1;
+        margin-left: 0px;
+        margin-top: 12px;
+    }
+
+        .itemdetailpage section[role=main] article .ingredients .item-ingredients {
+            margin-top: 4px;
+        }
+
+        .itemdetailpage section[role=main] article .ingredients .item-ingredients .ingredient {
+            padding-bottom: 0px;
+            font-size: 9pt;
+        }
 }
 
 @media screen and (-ms-view-state: fullscreen-portrait) {
     .itemdetailpage .content article {
         margin-left: 100px;
+    }
+
+    .itemdetailpage section[role=main] article .ingredients {
+        -ms-grid-row: 2;
+        -ms-grid-column: 1;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    .itemdetailpage section[role=main] article .directions {
+        -ms-grid-row: 3;
+        -ms-grid-column: 1;
+        margin-left: 0px;
+        margin-top: 40px;
     }
 }
