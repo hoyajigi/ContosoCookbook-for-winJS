@@ -133,7 +133,7 @@
             var zoomedOut = document.querySelector("#zoom").winControl.zoomedOut;
 
             if (appView.value === appViewState.snapped ||
-                zoomedOut) {
+                zoomedOut) {    
                 // If the page is snapped, the user invoked a group.
                 var group = Data.groups.getAt(args.detail.itemIndex);
                 nav.navigate("/pages/groupDetail/groupDetail.html", { groupKey: group.key });
