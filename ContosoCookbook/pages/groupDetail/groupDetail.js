@@ -60,17 +60,29 @@
             /// <param name="viewState" value="Windows.UI.ViewManagement.ApplicationViewState" />
             /// <param name="lastViewState" value="Windows.UI.ViewManagement.ApplicationViewState" />
 
+            //var listView = element.querySelector(".itemslist").winControl;
+            //if (lastViewState !== viewState) {
+            //    if (lastViewState === appViewState.snapped || viewState === appViewState.snapped) {
+            //        var handler = function (e) {
+            //            listView.removeEventListener("contentanimating", handler, false);
+            //            e.preventDefault();
+            //        }
+            //        listView.addEventListener("contentanimating", handler, false);
+            //        var firstVisible = listView.indexOfFirstVisible;
+            //        this.initializeLayout(listView, viewState);
+            //        listView.indexOfFirstVisible = firstVisible;
+            //    }
+            //}
             var listView = element.querySelector(".itemslist").winControl;
             if (lastViewState !== viewState) {
-                if (lastViewState === appViewState.snapped || viewState === appViewState.snapped) {
-                    var handler = function (e) {
-                        listView.removeEventListener("contentanimating", handler, false);
-                        e.preventDefault();
-                    }
-                    listView.addEventListener("contentanimating", handler, false);
-                    var firstVisible = listView.indexOfFirstVisible;
-                    this.initializeLayout(listView, viewState);
-                    listView.indexOfFirstVisible = firstVisible;
+                if (viewState === appViewState.snapped) {
+                    listView.layout = new ui.ListLayout();
+                }
+                else if (viewState === Windows.UI.ViewManagement.ApplicationViewState.fullScreenPortrait) {
+                    listView.layout = new ui.ListLayout();
+                }
+                else {
+                    listView.layout = new ui.GridLayout({ groupHeaderPosition: "left" });
                 }
             }
         }

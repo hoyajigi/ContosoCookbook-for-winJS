@@ -3,4 +3,7 @@
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\user\AppData\Local\Temp\ContosoCookbook_refcache</ReferenceCachePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostSimulatorDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>

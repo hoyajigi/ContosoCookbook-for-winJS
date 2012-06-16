@@ -5,7 +5,7 @@
     <WindowsUser>user</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>37879158D0278D159309DA1D3B3C04110C1C375EE0C9E4BE1CEF882AEB28382F</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>97430A3FB15CC994BB10B02804CA03B74AC69DD9B129EC4B5C96E5B24681CC8E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e39162cd-a950-4dc5-be2e-b525b7083741_1.0.0.0_neutral__yzekw4x8qxe1g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e39162cd-a950-4dc5-be2e-b525b7083741_yzekw4x8qxe1g!App</RegisteredUserModeAppID>
     <RegisteredPackageID>e39162cd-a950-4dc5-be2e-b525b7083741</RegisteredPackageID>
@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-06-16T13:59:01.048</Modified>
+      <Modified>2012-06-16T16:26:39.519</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -30,11 +30,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2012-06-16T14:41:53.794</Modified>
+      <Modified>2012-06-16T16:24:00.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2012-06-16T15:07:36.484</Modified>
+      <Modified>2012-06-16T16:29:36.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
-      <Modified>2012-06-16T13:51:03.575</Modified>
+      <Modified>2012-06-16T15:46:59.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
@@ -82,7 +82,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-06-16T13:51:03.329</Modified>
+      <Modified>2012-06-16T15:59:02.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
