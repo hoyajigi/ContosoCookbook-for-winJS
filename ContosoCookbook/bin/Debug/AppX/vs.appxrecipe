@@ -74,7 +74,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
-      <Modified>2012-06-16T13:51:03.610</Modified>
+      <Modified>2012-06-16T16:36:27.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2012-06-16T14:39:36.407</Modified>
+      <Modified>2012-06-16T16:34:44.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
