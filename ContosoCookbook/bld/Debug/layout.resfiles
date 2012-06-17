@@ -9,6 +9,9 @@ js\default.js
 js\media.js
 js\navigator.js
 js\tiles.js
+pages\about\about.css
+pages\about\about.html
+pages\about\about.js
 pages\groupDetail\groupDetail.css
 pages\groupDetail\groupDetail.html
 pages\groupDetail\groupDetail.js
@@ -18,6 +21,9 @@ pages\groupedItems\groupedItems.js
 pages\itemDetail\itemDetail.css
 pages\itemDetail\itemDetail.html
 pages\itemDetail\itemDetail.js
+pages\preferences\preferences.css
+pages\preferences\preferences.html
+pages\preferences\preferences.js
 pages\searchResult\searchResults.css
 pages\searchResult\searchResults.html
 pages\searchResult\searchResults.js

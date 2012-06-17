@@ -16,14 +16,20 @@
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\about\about.css">
+      <PackagePath>pages\about\about.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.css">
-      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\preferences\preferences.css">
+      <PackagePath>pages\preferences\preferences.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.css">
       <PackagePath>pages\searchResult\searchResults.css</PackagePath>
@@ -59,20 +65,29 @@
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\tiles.js">
       <PackagePath>js\tiles.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\about\about.js">
+      <PackagePath>pages\about\about.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.js">
-      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\preferences\preferences.js">
+      <PackagePath>pages\preferences\preferences.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.js">
       <PackagePath>pages\searchResult\searchResults.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\default.html">
-      <PackagePath>default.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\about\about.html">
+      <PackagePath>pages\about\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
@@ -80,8 +95,11 @@
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.html">
-      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\preferences\preferences.html">
+      <PackagePath>pages\preferences\preferences.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.html">
       <PackagePath>pages\searchResult\searchResults.html</PackagePath>

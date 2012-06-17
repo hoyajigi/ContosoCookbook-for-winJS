@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>about</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+    
+    <link href="about.css" rel="stylesheet" />
+    <script src="about.js"></script>
+</head>
+<body>
+   <div id="about" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{width: 'narrow'}">
+       <div class="SettingsPane">
+           <div class="win-label">
+               <button onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton"></button>
+               <span class="SettingsTitle">About</span>
+           </div>
+           <article class="SeetingsContent">
+               <h2>Contoso Cookbook</h2>
+               <h4>Trial Version</h4>
+           </article>
+       </div>
+   </div>
+</body>
+</html>
