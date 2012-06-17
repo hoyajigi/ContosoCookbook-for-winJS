@@ -57,8 +57,10 @@
     <Content Include="images\storelogo.png" />
     <Content Include="js\data.js" />
     <Content Include="js\default.js" />
+    <Content Include="js\media.js" />
     <Content Include="js\navigator.js" />
     <Content Include="default.html" />
+    <Content Include="js\tiles.js" />
     <Content Include="pages\groupDetail\groupDetail.css" />
     <Content Include="pages\groupDetail\groupDetail.html" />
     <Content Include="pages\groupDetail\groupDetail.js" />
@@ -68,6 +70,9 @@
     <Content Include="pages\itemDetail\itemDetail.css" />
     <Content Include="pages\itemDetail\itemDetail.html" />
     <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\searchResult\searchResults.css" />
+    <Content Include="pages\searchResult\searchResults.html" />
+    <Content Include="pages\searchResult\searchResults.js" />
     <None Include="ContosoCookbook_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

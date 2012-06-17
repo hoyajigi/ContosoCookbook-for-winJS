@@ -17,7 +17,6 @@
 <body>
     <!-- These templates are used to display each item in the ListView declared below. -->
     <div class="headerTemplate" data-win-control="WinJS.Binding.Template">
-        <h2 class="group-subtitle" data-win-bind="textContent: subtitle"></h2>
         <img class="group-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
         <h4 class="group-description" data-win-bind="innerHTML: description"></h4>
     </div>
@@ -25,10 +24,10 @@
         <img class="item-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
         <div class="item-info">
             <h4 class="item-title" data-win-bind="textContent: shortTitle"></h4>
-            <!--<h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: subtitle"></h6>-->
-<!--            <h4 class="item-description" data-win-bind="textContent: description"></h4>
-                <h4 class="item-subtitle">Preparation time:<spandata-win-bind="textContent: preptime"></span>minutes</h4>
--->        </div>
+            <h4 class="item-subtitle">
+                Preparation time:&nbsp;<span data-win-bind="textContent: preptime"></span>&nbsp;minutes
+            </h4>
+        </div>
     </div>
 
     <!-- The content that will be loaded and displayed. -->

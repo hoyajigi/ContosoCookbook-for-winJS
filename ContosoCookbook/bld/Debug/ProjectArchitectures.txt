@@ -1,1 +1,1 @@
-C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\ContosoCookbook.jsproj;neutral
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\ContosoCookbook.jsproj;neutral

@@ -5,7 +5,7 @@
     <WindowsUser>user</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>97430A3FB15CC994BB10B02804CA03B74AC69DD9B129EC4B5C96E5B24681CC8E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>D14A1B6C5732BD755021E133E45DE4E579E9B3D07B143D2440FDCC8C5529F64F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e39162cd-a950-4dc5-be2e-b525b7083741_1.0.0.0_neutral__yzekw4x8qxe1g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e39162cd-a950-4dc5-be2e-b525b7083741_yzekw4x8qxe1g!App</RegisteredUserModeAppID>
     <RegisteredPackageID>e39162cd-a950-4dc5-be2e-b525b7083741</RegisteredPackageID>
@@ -13,92 +13,112 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-06-16T16:26:39.519</Modified>
+      <Modified>2012-06-17T15:52:43.080</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\css\default.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-06-16T13:51:03.446</Modified>
+      <Modified>2012-06-01T22:36:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
-      <Modified>2012-06-16T14:52:38.353</Modified>
+      <Modified>2012-06-01T23:49:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2012-06-16T16:24:00.585</Modified>
+      <Modified>2012-06-02T01:37:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2012-06-16T16:29:36.279</Modified>
+      <Modified>2012-06-02T00:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.css">
+      <PackagePath>pages\searchResult\searchResults.css</PackagePath>
+      <Modified>2012-06-02T09:52:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T00:00:00.000</Modified>
+      <Modified>2012-03-16T13:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T00:00:00.000</Modified>
+      <Modified>2012-03-16T13:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T00:00:00.000</Modified>
+      <Modified>2012-03-16T13:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T00:00:00.000</Modified>
+      <Modified>2012-03-16T13:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\data.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2012-06-16T14:06:12.937</Modified>
+      <Modified>2012-06-02T17:09:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\default.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-06-16T13:51:03.322</Modified>
+      <Modified>2012-06-04T09:11:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\media.js">
+      <PackagePath>js\media.js</PackagePath>
+      <Modified>2012-06-02T13:23:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
-      <Modified>2012-06-16T13:51:03.651</Modified>
+      <Modified>2012-06-02T17:04:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\tiles.js">
+      <PackagePath>js\tiles.js</PackagePath>
+      <Modified>2012-06-03T20:22:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
-      <Modified>2012-06-16T15:46:59.411</Modified>
+      <Modified>2012-06-01T23:47:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
-      <Modified>2012-06-16T16:36:27.830</Modified>
+      <Modified>2012-06-15T13:54:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
-      <Modified>2012-06-16T14:59:24.317</Modified>
+      <Modified>2012-06-03T19:17:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\default.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.js">
+      <PackagePath>pages\searchResult\searchResults.js</PackagePath>
+      <Modified>2012-06-02T10:08:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-06-16T15:59:02.247</Modified>
+      <Modified>2012-06-03T19:21:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
-      <Modified>2012-06-16T14:51:50.224</Modified>
+      <Modified>2012-06-01T23:05:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2012-06-16T16:34:44.290</Modified>
+      <Modified>2012-06-02T00:45:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
-      <Modified>2012-06-16T15:08:20.369</Modified>
+      <Modified>2012-06-01T23:15:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.html">
+      <PackagePath>pages\searchResult\searchResults.html</PackagePath>
+      <Modified>2012-06-02T09:55:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-06-16T13:59:00.944</Modified>
+      <Modified>2012-06-17T15:52:42.946</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

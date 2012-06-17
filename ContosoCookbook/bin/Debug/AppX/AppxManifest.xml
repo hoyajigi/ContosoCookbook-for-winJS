@@ -10,7 +10,7 @@
   <Identity Name="e39162cd-a950-4dc5-be2e-b525b7083741" Version="1.0.0.0" Publisher="CN=user" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>ContosoCookbook</DisplayName>
-    <PublisherDisplayName>user</PublisherDisplayName>
+    <PublisherDisplayName>호야지기</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -26,10 +26,14 @@
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
       </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+      </Extensions>
     </Application>
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
+    <DeviceCapability Name="webcam" />
   </Capabilities>
   <Dependencies>
     <PackageDependency Name="Microsoft.WinJS.1.0.RC" MinVersion="1.0.8377.0" />
@@ -38,5 +42,6 @@
     <build:Item Name="VisualStudio" Version="11.0" />
     <build:Item Name="OperatingSystem" Version="6.2.8400.0 (winmain_win8rc.120518-1423)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.50522.1" />
+    <build:Item Name="MakePri.exe" Version="6.2.8400.0 (winmain_win8rc.120518-1423)" />
   </build:Metadata>
 </Package>

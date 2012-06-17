@@ -7,71 +7,86 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\css\default.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.css">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.css">
+      <PackagePath>pages\searchResult\searchResults.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\data.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\data.js">
       <PackagePath>js\data.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\default.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\media.js">
+      <PackagePath>js\media.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\js\tiles.js">
+      <PackagePath>js\tiles.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.js">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\default.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.js">
+      <PackagePath>pages\searchResult\searchResults.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupDetail\groupDetail.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\groupedItems\groupedItems.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\pages\itemDetail\itemDetail.html">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\pages\searchResult\searchResults.html">
+      <PackagePath>pages\searchResult\searchResults.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

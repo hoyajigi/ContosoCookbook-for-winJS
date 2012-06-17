@@ -1,24 +1,30 @@
-﻿<!DOCTYPE html>
+﻿<!DOCTYPE html> 
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>ContosoCookbook</title>
+    <title>ContosoCookbookTest</title>
 
     <!-- WinJS references -->
     <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
     <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
     <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
 
-    <!-- ContosoCookbook references -->
+    <!-- ContosoCookbookTest references -->
     <link href="/css/default.css" rel="stylesheet" />
     <script src="/js/data.js"></script>
     <script src="/js/navigator.js"></script>
     <script src="/js/default.js"></script>
+    <script src="/js/tiles.js"></script>
+    <script src="/js/media.js"></script>
+    <script src="/pages/searchResult/searchResults.js"></script>
 </head>
 <body>
     <div id="contenthost" data-win-control="Application.PageControlNavigator" data-win-options="{home: '/pages/groupedItems/groupedItems.html'}"></div>
-    <!-- <div id="appbar" data-win-control="WinJS.UI.AppBar">
-        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmd', label:'Command', icon:'placeholder'}"></button>
-    </div> -->
+    <div id="appbar" data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'pin', label:'Pin Recipe', icon:'&#xE141', section:'selection'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'photo', label:'Photo', icon:'&#xE114',  section: 'selection'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'video', label:'Video', icon:'&#xE116', section: 'selection'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'home', label:'Home', icon:'&#xE10F', section: 'global'}"></button>
+    </div>
 </body>
 </html>

@@ -5,6 +5,10 @@
     margin-bottom: 60px;
 }
 
+#zoomedOutListView {
+    margin-left: 70px;
+}
+
 .groupeditemspage .groupeditemslist {
     height: 100%;
     position: relative;
@@ -23,18 +27,10 @@
             margin-left: 5px;
             margin-top: 0;
         }
-    /*
+
     .groupeditemspage .groupeditemslist .win-item {
         -ms-grid-columns: 1fr;
-        -ms-grid-rows: 1fr 90px;
-        display: -ms-grid;
-        height: 250px;
-        width: 250px;
-    }
-    */
-    .groupeditemspage .groupeditemslist .win-item {
-        -ms-grid-columns: 1fr;
-        -ms-grid-rows: 1fr48px;
+        -ms-grid-rows: 1fr 48px;
         display: -ms-grid;
         height: 240px;
         width: 320px;
@@ -43,13 +39,6 @@
         .groupeditemspage .groupeditemslist .win-item .item-image {
             -ms-grid-row-span: 2;
         }
-
-        /*.groupeditemspage .groupeditemslist .win-item .item-overlay {
-            -ms-grid-row: 2;
-            -ms-grid-rows: 1fr 21px;
-            display: -ms-grid;
-            padding: 6px 15px 2px 15px;
-        }*/
 
         .groupeditemspage .groupeditemslist .win-item .item-overlay {
             -ms-grid-row: 2;
@@ -138,7 +127,3 @@
         margin-left: 25px;
     }
 }
-.groupdetailpage .itemslist .win-vertical.win-viewport .win-surface {
-	        margin-left: 90px;
-	    }
-	}

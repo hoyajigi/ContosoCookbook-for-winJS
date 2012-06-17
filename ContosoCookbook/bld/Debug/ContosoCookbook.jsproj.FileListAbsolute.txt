@@ -7,3 +7,16 @@ C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookb
 C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bld\Debug\pri.resfiles
 C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bld\Debug\LanguageQualifiers.txt
 C:\Users\user\Documents\Visual Studio 2012\Projects\ContosoCookbook\ContosoCookbook\bld\Debug\ProjectArchitectures.txt
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\resources.pri
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\priconfig.xml
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\layout.resfiles
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\resources.resfiles
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\pri.resfiles
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\LanguageQualifiers.txt
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\ProjectArchitectures.txt
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\priconfig.xml.intermediate
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\layout.resfiles.intermediate
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\resources.resfiles.intermediate
+C:\Users\user\Documents\GitHub\ContosoCookbook-for-winJS\ContosoCookbook\bld\Debug\pri.resfiles.intermediate

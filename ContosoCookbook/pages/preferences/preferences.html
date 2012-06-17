@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>preferences</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+    
+    <link href="preferences.css" rel="stylesheet" />
+    <script src="preferences.js"></script>
+</head>
+<body>
+    <div id="preferences" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{width: 'narrow'}">
+        <div class="SettingsPane">
+            <div class="SettingsPane">
+                <div class="win-label">
+                    <button onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton">
+                    </button>
+
+                    <span class="SettingsTitle">Preferences</span>
+                </div>
+                <article class="SettingsContent">
+                    <input type="checkbox" id="rememberPosition" onclick="preferences.rememberPosition()"/> Remember where I was
+                </article>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
